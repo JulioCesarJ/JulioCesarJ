@@ -1,4 +1,9 @@
 ## Eae! Eu sou o Julio Cesar
+
+🌎 Brasil. </br>
+📚 Aprendendo Javascript / React / Front End Development </br>
+🎓 Analise e Desenvolvimento de Sistemas 4/6
+
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JulioCesarJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
