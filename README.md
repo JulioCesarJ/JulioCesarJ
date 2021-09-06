@@ -2,7 +2,7 @@
 
 🌎 Brasil. </br>
 📚 Aprendendo Javascript / React / Front End Development </br>
-🎓 Analise e Desenvolvimento de Sistemas 4/6
+🎓 Análise e Desenvolvimento de Sistemas 4/6
 
  <div>
   <a href="https://github.com/rafaballerini">
