@@ -1,4 +1,4 @@
-## E ai! Eu sou o Julio Cesar
+## E ai! Eu sou o Julio Cesar!
 
 🌎 Brasil. </br>
 📚 Aprendendo Javascript / React / Front End Development </br>
