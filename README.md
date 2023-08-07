@@ -1,7 +1,7 @@
 ## E ai! Eu sou o Julio Cesar!
 
 🌎 Brasil. </br>
-📚 Aprendendo Javascript / React / Front End Development </br>
+📚 Desenvolvedor Full Stack </br>
 🎓 Sistemas de Informação 7/8
 
  <div>
